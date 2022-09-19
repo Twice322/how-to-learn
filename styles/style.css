@@ -213,13 +213,6 @@
   right: 48px;
 }
 
-
-
-.feynman__link::after {
-  content: '→';
-}
-
-
 .kaufman {
   background-color: #1f1f1f;
   position: relative;
