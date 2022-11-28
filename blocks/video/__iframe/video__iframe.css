@@ -3,9 +3,6 @@
   z-index: 1;
   position: relative;
 }
-.video__iframe iframe {
-  border: 0;
-}
 .video__iframe:first-child {
   padding-right: 20px;
 }
